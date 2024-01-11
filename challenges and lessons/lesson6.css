@@ -1,0 +1,21 @@
+p {
+  font-family: Montserrat;
+  color: black;
+}
+
+.model {
+  font-weight: bolder;
+  font-size: 25px;
+  margin-bottom: 8px;
+  margin-left: 80px;
+}
+
+.model-text {
+  margin-top: 8px;
+  font-size: 14px;
+  margin-left: 13px;
+}
+
+.model-text2 {
+  text-decoration: underline;
+}
